@@ -3,6 +3,9 @@ The code is a Discord bot written in Python that allows users to upload an image
 
 [![Run on Replit.com](https://repl.it/badge/github/username/repository 'Run on Replit.com')](https://replit.com/@zann5/cloudinaryupload-discordbot)
 
+## Usage
+`/save whatevertagyouwant` - will save the last image in your cloudinary media library tagged with the tag whatevertagyouwant
+
 ## Features
 - Responds to the command "/save" and takes the name of the Cloudinary tag as an argument.
 - Built using the discord and requests Python libraries.
