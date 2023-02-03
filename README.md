@@ -25,5 +25,8 @@ Cloudinary API information from environment variables
 - API_KEY = 
 - API_SECRET =
 
+## Event Handlers
+- on_ready: Logs a message in the console when the bot is ready and prints the invite URL to add the bot to a Discord server.
+
 ## Fork on replit.com
 - https://replit.com/@zann5/cloudinaryupload-discordbot
