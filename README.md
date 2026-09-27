@@ -30,3 +30,7 @@ Cloudinary API information from environment variables
 
 ## Fork on replit.com
 - https://replit.com/@zann5/cloudinaryupload-discordbot
+
+## License
+
+AGPL-3.0-or-later © 2023–2026 Jeffrey Pine Hein. See [LICENSE](LICENSE).
